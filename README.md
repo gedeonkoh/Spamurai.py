@@ -60,21 +60,8 @@ Known Issues and Limitations:
 ![image](https://github.com/user-attachments/assets/3749148b-03b1-465f-b621-a956d8291b8d)
 
 __________________________________
-![image](https://github.com/user-attachments/assets/dc982fab-30bb-4b4b-853b-19e30bb652fe)
-
 Disclaimer:
 This script is intended solely for educational purposes and must be used responsibly. It is strictly prohibited to use the script for pranks, harassment, or to send unsolicited emails to individuals or organizations without their consent. Any misuse of this script may result in legal consequences and violations of the terms of service of email providers, such as Gmail. Engaging in spamming or any other non-consensual activities can lead to account suspensions, blacklisting, or more severe legal actions. It is imperative to ensure that all activities conducted with this script adhere to ethical standards and comply with applicable laws and regulations. This repository and its contents are provided to demonstrate the principles of email flooding and payload delivery systems within controlled, ethical testing environments. The use of this script on live targets or for malicious purposes is strictly prohibited. Users assume full responsibility for any consequences resulting from the use of this script. This repository is not affiliated in any way with the School Of Science and Technology, Singapore, and the author should not be held responsible. 
-
-__________________________________
-Built for intense stress testing, spam modeling, phishing sim payloads, or mass mail campaigns.
-
-Author: Gedeon Koh
-Copyright © 2025
-All rights reserved.
-
-Contributions ✨: We welcome contributions to improve the functionality and usability of this script. If you have identified bugs, security improvements, or new features, feel free to fork the repository and submit a pull request. Please ensure that all contributions follow ethical guidelines and are in line with the educational nature of the project. If you're unsure about any changes, please open an issue to discuss it first. Contributions should adhere to coding standards and include appropriate documentation for any new features or changes.
-
-Other Random Information: No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in reviews and certain other non-commercial uses permitted by copyright law. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE Any unauthorized use or dissemination of the results produced by this program is unethical and may result in legal consequences. Any damage, disciplinary actions or death from this material is not in fault in the publisher's or owner.
 __________________________________
 # School Uniform Compliance Directive.py Overview
 This project serves as a tool for automating school uniform compliance reminders. The system sends regular reminders to students regarding the strict uniform policy enforced by the school. These emails are intended to ensure that all students meet the school's dress code and grooming standards without exception, contributing to a professional and disciplined learning environment. The school’s policy requires students to arrive in full formal uniform every Monday. This includes wearing the official shirt, trousers or skirt, approved belt and shoes, and ensuring grooming aligns with the institution's standards. Additionally, any unsanctioned social ideologies, including but not limited to Pride-related expressions, are strictly prohibited on school grounds. Any violations of this policy will lead to disciplinary actions. This project is NOT related or affiliated to the School Of Science and Technology, Singapore.
